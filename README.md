@@ -1,1 +1,1 @@
-### Hi there 👋, I'm an aspiring Data Analyst / Scientist
+### Hi there 👋 I'm an aspiring Data Analyst / Scientist
