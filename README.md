@@ -4,6 +4,6 @@
 ![](https://img.shields.io/badge/NumPy-Scientific%20Computing-9cf)
 ![](https://img.shields.io/badge/Pandas-Data%20Analysis-9cf) 
 ![](https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange)
-![](https://img.shields.io/badge/Stata-Statistical%20Software-lightgrey)
 ![](https://img.shields.io/badge/SQL-Relational%20Databases-ff69b4)
+![](https://img.shields.io/badge/Stata-Statistical%20Software-lightgrey)
 
