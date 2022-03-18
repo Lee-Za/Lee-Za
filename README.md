@@ -1,4 +1,4 @@
-### Hi there 👋 I'm an aspiring Data Analyst / Scientist
+### Hello there, I'm an aspiring Data Analyst / Scientist
 
 ![](https://img.shields.io/badge/Python-Programming-blue) 
 ![](https://img.shields.io/badge/NumPy-Scientific%20Computing-blueviolet)
